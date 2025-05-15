@@ -61,7 +61,7 @@ def doibm(toggle):
     plotcalc(1,4,color_green,pixels,toggle)
     plotcalc(1,5,color_green,pixels,toggle)
     plotcalc(2,2,color_green,pixels,toggle)
-    plotcalc(2,3,color_green,pixels,toggle)
+#    plotcalc(2,3,color_green,pixels,toggle)
     plotcalc(3,2,color_green,pixels,toggle)
     plotcalc(3,3,color_green,pixels,toggle)
     plotcalc(4,2,color_green,pixels,toggle)
